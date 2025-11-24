@@ -7,7 +7,6 @@
 
 I'm a **frontend-focused software engineer** who loves building clean, fast, and user-friendly interfaces.  
 I focus on **UI/UX**, responsive layouts, and turning designs into smooth, real-world web experiences.  
-I also use backend tools like Node.js & MongoDB when needed to support frontend features.
 
 ---
 
