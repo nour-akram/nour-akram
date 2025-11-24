@@ -39,9 +39,6 @@ I focus on **UI/UX**, responsive layouts, and turning designs into smooth, real-
 
 🌍 **Connect With Me**
 <p align="left">
-  <a href="https://dev.to/nourakram" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
-  </a>
   <a href="https://www.linkedin.com/in/nour-akram-416658249/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
