@@ -71,11 +71,4 @@ I focus on **UI/UX**, responsive layouts, and turning designs into smooth, real-
 
 ---
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nour-akram&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
-
----
-
  _"I build simple, modern, and user-friendly interfaces — with clean code and smooth interactions."_
